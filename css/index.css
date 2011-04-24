@@ -1,0 +1,19 @@
+#container {
+    width: 600px;
+    background-color: #FF0000;
+    margin: 0 auto;
+}
+
+#content {
+    background-color: #555555;
+}
+
+.aiad {
+    background-color: #0000FF;
+    padding-left: 10px;
+    font-size: 30
+}
+
+.aiad p {
+    color: #FFFFFF;
+}
