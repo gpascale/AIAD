@@ -8,10 +8,15 @@
     background-color: #555555;
 }
 
-.aiad {
+.item {
     background-color: #0000FF;
     padding-left: 10px;
     font-size: 30
+    margin-bottom: 20px
+}
+
+#itemList li {
+    list-style-type: none;
 }
 
 .aiad p {
